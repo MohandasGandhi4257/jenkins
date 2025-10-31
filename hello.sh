@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hwllo jenkins from github"
+echo "Hwllo jenkins from github pollong logs"
